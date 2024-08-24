@@ -1,0 +1,12 @@
+Principle based governance security framework
+Cybersecurity is not just a technical issue, it is a enterprise wide risk management concern that needs to be adopted by companies (Nigro,2024). The General Data Protection Regulation (GDPR) framework can be used to protect personal information collected by a company or an organisation
+The NIST framework can also be used to identify and manage cyber threats, it collaborates private and public sector and sets out guidelines to be used for managing and thereby reducing cyber security risks.
+AICPA and CIMA frameworks can be used to as frameworks for risk management, they have controls put in place to detect cybercrimes and a recovery plan once a cyber crime has occured. These frameworks can be used by this company as an internal framework made suitable for them to detect and control cyber attacks wherether a person chooses to use personal or the company laptop
+The internet of Things (IoT) is very efficient as it has security experts, this framework can be used if a company wants to quickly troubleshoot. IoT sensors can detect issues on the company gaggets and other company assets not only computers.
+CIS control is based on six principles used to prevent and respond to cyber attacks, it mainly focuses on mitigating the most important and most common cyber risks
+All these frameworks can be used by the cmpany to protect personal information of the employees as they use the company laptops to do their work. These will also prevent, manage and recover cyber attacks to maintain the companys intergrity and the rights of both its customers and employees
+ReferenceS
+Nigro, P. (2024, February 9). Cybersecurity governance: A path to cyber maturity. TechTarget.
+https://www.techtarget.com/searchsecurity/post/Cybersecurity-governance-A-path-to-cybe
+r-maturity 
+https://www.aicpa-cima.com/search/cybersecurity+framework (online source)
